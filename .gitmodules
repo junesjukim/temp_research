@@ -1,0 +1,21 @@
+[submodule "reference_repo/jax"]
+	path = reference_repo/jax
+	url = https://github.com/jax-ml/jax
+[submodule "reference_repo/diffuser"]
+	path = reference_repo/diffuser
+	url = https://github.com/jannerm/diffuser
+[submodule "reference_repo/ogbench"]
+	path = reference_repo/ogbench
+	url = https://github.com/seohongpark/ogbench
+[submodule "reference_repo/CleanDiffuser"]
+	path = reference_repo/CleanDiffuser
+	url = https://github.com/CleanDiffuserTeam/CleanDiffuser
+[submodule "reference_repo/comp_diffuser"]
+	path = reference_repo/comp_diffuser
+	url = https://github.com/devinluo27/comp_diffuser_release
+[submodule "reference_repo/DiT"]
+	path = reference_repo/DiT
+	url = https://github.com/facebookresearch/DiT
+[submodule "reference_repo/openpi"]
+	path = reference_repo/openpi
+	url = https://github.com/Physical-Intelligence/openpi
